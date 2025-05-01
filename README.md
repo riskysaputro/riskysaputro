@@ -1,5 +1,5 @@
 # Hi all, i'am Risky Saputro 👋
-
+![github-banner](img/github-header-image.png)
 <!--
 **riskysaputro/riskysaputro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -16,4 +16,4 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Baginner Student IT
-  🌱 I’m currently learning frontend with React and Laravel😁
+- 🌱 I’m currently learning frontend with React and Laravel😁
