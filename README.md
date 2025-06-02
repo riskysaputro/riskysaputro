@@ -1,5 +1,5 @@
 # Hi all, i'am Risky Saputro 👋
-![github-banner](github-header-image.png)
+![github-banner](github-header-image (1).png)
 <!--
 **riskysaputro/riskysaputro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
